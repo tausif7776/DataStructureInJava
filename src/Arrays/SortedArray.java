@@ -10,7 +10,7 @@ public class SortedArray {
         return true;
     }
     public static void main(String[] args) {
-        int[] nums = {2, 4, 6, 7, 8, 9, 10};
+        int[] nums = {2, 4, 6, 7, 8, -6, 10};
         System.out.println(ArraysSort(nums));
     }
 }

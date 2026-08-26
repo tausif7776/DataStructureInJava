@@ -12,6 +12,7 @@ public class AddOneNumber {
             result.add(arr[i]+carry);
             carry=0;
         }
+
         else{
             result.add(0);
             carry=1;
